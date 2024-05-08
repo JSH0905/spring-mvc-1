@@ -84,3 +84,7 @@ Q.idea/sonarlint/securityhotspotstore/c/a/ca4cee32622699bcac1ba07af9045aad1ca884
 Q.idea/sonarlint/securityhotspotstore/0/5/05efc8b1657769a27696d478ded1e95f38737233,2\5\2534b7ffebad46793fc4d77da07aca83b23dd835
 7
 HELP.md,1\a\1a273f73b7a477b0745593641bd708a6182c7ad5
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+U
+%src/main/webapp/basic/hello-form.html,e\7\e7e734d3f614fef5ffb5d7dc3dfedf994ce2b95f
