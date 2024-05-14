@@ -112,3 +112,9 @@ n
 >src/main/java/hello/servlet/web/servlet/MemberSaveServlet.java,8\b\8b3fb38940c17065332e23a369536141afd12084
 n
 >src/main/java/hello/servlet/web/servlet/MemberListServlet.java,f\b\fb8530517a8eba7cd3e8babb9fb9ed1efa734cdc
+X
+(src/main/webapp/jsp/members/new-form.jsp,8\7\87573653c45d712a1415c120562a177bc4c71049
+T
+$src/main/webapp/jsp/members/save.jsp,4\7\476b2fe9d57f3a4fa8e3f63b098c25e67a1ef204
+O
+src/main/webapp/jsp/members.jsp,5\3\53f2eaebf4e018d951d74111b24f84786648ffd2
