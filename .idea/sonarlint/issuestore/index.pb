@@ -174,3 +174,9 @@ Ysrc/main/java/hello/servlet/web/frontcontroller/v4/controller/MemberSaveControl
 Ysrc/main/java/hello/servlet/web/frontcontroller/v4/controller/MemberListControllerV4.java,3\4\345ba6625232143ae7e1bf4f62d38478b8df8fa2
 €
 Psrc/main/java/hello/servlet/web/frontcontroller/v4/FrontControllerServletV4.java,2\4\24be3eff6316cce71dd8ebce7cebcedaa49951ff
+x
+Hsrc/main/java/hello/servlet/web/frontcontroller/v5/MyHandlerAdapter.java,5\0\50f3733b5a28d3a07bf75e995163434b6331edf0
+Š
+Zsrc/main/java/hello/servlet/web/frontcontroller/v5/adapter/ControllerV3HandlerAdapter.java,a\6\a69a9d07caf3c10f88876d66e73ed8d8dfc4b175
+€
+Psrc/main/java/hello/servlet/web/frontcontroller/v5/FrontControllerServletV5.java,e\9\e9d9a9794e4995e72e7d921fbfe9272b420f6251
