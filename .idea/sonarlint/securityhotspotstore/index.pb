@@ -180,3 +180,5 @@ Hsrc/main/java/hello/servlet/web/frontcontroller/v5/MyHandlerAdapter.java,5\0\5
 Zsrc/main/java/hello/servlet/web/frontcontroller/v5/adapter/ControllerV3HandlerAdapter.java,a\6\a69a9d07caf3c10f88876d66e73ed8d8dfc4b175
 €
 Psrc/main/java/hello/servlet/web/frontcontroller/v5/FrontControllerServletV5.java,e\9\e9d9a9794e4995e72e7d921fbfe9272b420f6251
+Š
+Zsrc/main/java/hello/servlet/web/frontcontroller/v5/adapter/ControllerV4HandlerAdapter.java,3\5\35d79e14e8fde52d2ec134e90bf0752cf8e23656
